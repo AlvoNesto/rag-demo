@@ -1,0 +1,48 @@
+1.- Resiliente:
+	Limitada capacidad de ahorro, ingresos bajo y gestión de gastos en el día a día
+	Ejemplo de argumento: "Con la tarjeta BBVA Cero o Cuota Fija, podrás manejar mejor tus gastos sin preocuparte por el cobro de membresía.
+		La Cuota Fija te permite pagar lo mismo todos los meses, sin sorpresas, incluso si compras en dólares. Ideal para mantener el control de tus finanzas sin estrés adicional.
+		Beneficios clave:
+		-Sin membresía.
+		-Cuota mensual predecible (Cuota Fija)
+		-Estabilidad en pagos.
+		-Sin intereses en comercios afiliados."
+
+2.- Ahorrador:
+	Ingresos limitados, cultura de ahorro, aversos al riesgo - gestión de gastos planificados
+	Ejemplo de argumento: "Tu cultura de ahorro merece una tarjeta inteligente: Visa o Mastercard Bfree te da 2,000 puntos de bienvenida y te permite comprar sin intereses en más de 7,000 tiendas.
+		Úsala solo cuando lo necesites y sin sentirte forzado a pagar comisiones o recargos.
+		Beneficios clave:
+		-Sin intereses en muchos comercios.
+		-Puntos por bienvenida.
+		-Flexibilidad para usar solo en lo necesario
+		-Fomenta ahorro inteligente."
+
+3.- Emergente:
+	Jóvenes con ingresos aún bajos apalancados en el sistema financiero
+	Ejemplo de argumento: "Empieza a construir tu historial crediticio con la BBVA Cero, sin pagar membresía, o la Visa Bfree con 2,000 puntos de bienvenida.
+		Compra en cuotas sin intereses y aprovecha los beneficios mientras vas creciendo profesionalmente."
+		Beneficios clave:
+		-Sin membresía (BBVA Cero).
+		-Premios de bienvenida.
+		-Sin intereses.
+		-Base sólida para historial crediticio."
+
+4.- Afianzado:
+	Profesionales con ingreso medio de tendencia creciente, con capacidad de ahorro y bancarizados
+	Ejemplo de argumento: "Da el siguiente paso con una tarjeta a tu altura: Visa o Mastercard Platinum te da 4,000 puntos de bienvenida, compras sin intereses, seguros de protección y beneficios que te acompañan mientras alcanzas tus metas personales como tu nuevo depa."
+		-Beneficios clave:
+		-Puntos por bienvenida.
+		-Seguros incluidos
+		-Compras grandes sin intereses.
+		-Ideal para metas de mediano plazo."
+
+5.- Próspero:
+	Ingreso altos, ahorros consolidados e inversiones
+	Ejemplo de argumento: "Tu estilo de vida merece experiencias premium: elige entre Visa Infinite o Mastercard Black para ganar hasta 12,000 puntos de bienvenida.
+		Accede a más de 1,200 salas VIP en aeropuertos y disfruta de seguros exclusivos de viaje y estacionamiento VIP. Diseñada para quienes viven sin límites.
+	Beneficios clave:
+	Salas VIP internacionales
+	Puntos de bienvenida altos (8,000–12,000)
+	Seguros exclusivos.
+	Estilo y comodidad en cada viaje."

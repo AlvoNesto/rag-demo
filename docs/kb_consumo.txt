@@ -1,0 +1,39 @@
+1.- Fashion:
+	Clientes con consumo preferencial en tiendas por departamento.
+	Insight: Le gusta ir de shopping, es un segmento más femenino, ingresos regulares y con consumos totales por debajo del promedio.
+	Ejemplo de argumento: "Aprovecha los descuentos de hasta 75% en más de 700 establecimientos, incluyendo tus tiendas por departamento favoritas.
+	Además, tu Cuenta Sueldo BBVA es 100% digital, sin trámites ni colas, para que disfrutes comprando desde donde estés."
+
+	
+2.- Buen Comer: Clientes con consumo preferencial en restaurantes, bares y discotecas.
+	Insight: Tiene como preferencia ir a restaurantes, pastelerías, bares y discotecas,  es el segmento más joven y con mayor porcentaje  de solteros y limeños.
+	Ejemplo de argumento: "Con tu Cuenta Sueldo BBVA, accede a promociones exclusivas en restaurantes, bares y locales nocturnos.
+		Todo mientras ahorras con una cuenta sin costos de mantenimiento ni comisiones por transferencias o retiros."
+
+
+3.- Salud: Clientes con consumo preferencial en salud (farmacias, clínicas, etc.)
+	Insight: Utiliza principalmente sus tarjetas para el pago de servicios en salud. En su mayoría mujeres, no digitales, bajo consumo y bajo uso de la TC.
+	Ejemplo de argumento: "Con BBVA, cuida tu salud y tu bolsillo. Tu Cuenta Sueldo te ofrece descuentos en establecimientos de salud.
+		Además de acceso a créditos con tasas preferenciales para gastos médicos y emergencias."
+
+
+4.- Supermercado: Clientes con consumo preferencial en supermercados.
+	Insight: Consume principalmente en supermercados, de más bajos ingresos, menor % de profesionales, son los menos digitales y con más bajo nivel de consumo y deuda.
+	Ejemplo de argumento: "Ahorra en cada compra del mes con tu Cuenta Sueldo BBVA: descuentos en supermercados afiliados.
+		Sin comisiones por mantenimiento y retiros ilimitados y gratuitos, incluso para tus compras del día a día."
+
+5.- Digital: Clientes con consumo preferencial por las apps (rappi, uber), suscripciones, viajes, videojuegos, etc.
+	Insight: Segmento altamente digital, consume en diversos rubros, jóvenes, ingresos regulares, con alto nivel de consumo, deuda y uso de la TC.
+	Ejemplo de argumento: "Digital como tú: tu Cuenta Sueldo BBVA es 100% digital, ideal para quienes usan apps como Rappi, Uber o Spotify.
+		Además, con transferencias interbancarias ilimitadas y gratis, ¡tu estilo de vida digital tiene respaldo total!"
+
+6.- Full Cash TC: Clientes con consumo preferencial en disposición de efectivo.
+	Insight: Utiliza principalmente la tarjeta de crédito para disposición de efectivo. Edad e ingresos promedios altos y mayor porcentaje de profesionales.
+	Ejemplo de argumento: "Tu Cuenta Sueldo BBVA te da tasas preferenciales para créditos y CTS con tu Cuenta Sueldo BBVA, ideal si usas tu TC para efectivo.
+		Además, disfruta de una cuenta sin mantenimiento ni comisiones, con beneficios exclusivos para profesionales y una red de atención digital y presencial."
+
+7.- Sofisticado: Clientes con consumo preferencial en seguros, auto, hogar, electro, etc.
+	Insight: Consume en diversos rubros, segmento con la mayor edad promedio, de más altos ingresos, consumos y deuda,  mayor % de casados y no digitales.
+	Ejemplo de argumento: "Accede a una Cuenta Sueldo premium sin costos, con tasas preferenciales en créditos para auto, hogar y electrodomésticos.
+		También obtén beneficios exclusivos en seguros y comercios de alto valor."
+

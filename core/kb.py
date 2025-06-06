@@ -23,7 +23,7 @@ def load_vector_db(agent_id: str) -> Chroma:
             collection_name=collection_name
         )
     else:
-        loader = TextLoader(f"docs/kb_{agent_id}.txt")
+        loader = TextLoader(f"docs/kb_{agent_id}.txt", encoding="utf-8")
         documents = loader.load()
         splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         docs = splitter.split_documents(documents)
@@ -39,4 +39,4 @@ def load_vector_db(agent_id: str) -> Chroma:
     
 def get_context(question: str, retriever: VectorStoreRetriever) -> str:
     docs = retriever.get_relevant_documents(question)
-    return "\n".join([doc.page_content for doc in docs])
+    return "\n\n".join(doc.page_content.strip()[:500] for doc in docs)

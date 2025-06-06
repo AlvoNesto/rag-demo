@@ -12,12 +12,13 @@ class AgentPerfil(Agent):
 
     def run(self, state: EstadoConversacion):
         db = load_vector_db("perfil")
-        retriever = db.as_retriever(search_kwargs={"k": 3})
+        retriever = db.as_retriever(search_kwargs={"k": 2})
         chain = state["chain"]
         perfil_cliente = state["input"]
         context = get_context(perfil_cliente, retriever)
-        raw_answer = answer_question(chain, perfil_cliente, context)
-        state["output"] = validate_answer(chain, raw_answer)
+        answer = answer_question(chain, perfil_cliente, context)
+        # answer = validate_answer(chain, answer)
+        state["output"] = answer
         return state
 
 def answer_question(chain: ConversationChain, perfil_cliente: str, context: str) -> str:

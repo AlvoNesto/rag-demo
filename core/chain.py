@@ -6,7 +6,7 @@ from core.base_memory import PersistentConversationSummaryMemory
 # llm = ChatOpenAI(
 #     model="gpt-4",
 #     temperature=0.7,
-#     openai_api_key="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"
+#     openai_api_key=""
 # )
 
 llm = ChatOllama(

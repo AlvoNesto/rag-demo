@@ -1,0 +1,13 @@
+# Variables de entorno
+.env
+
+# Caches por módulo
+agents/__pycache__/
+core/__pycache__/
+graph/__pycache__/
+
+# Vector DB local
+chroma_db_dir/
+
+# Historial de conversación 
+conversation_history.json
